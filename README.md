@@ -4,7 +4,7 @@ I'm **Serdar Nazlı**, a passionate AI & Data Engineering student currently purs
 
 ### 🔭 I’m currently working on:
 - My graduation project focused on optimizing 3D medical data with self-supervised learning (SSL).
-- A big side-projects where I plan to publish it mid 2025's.
+- A big side-projects where I plan to publish them mid 2025's.
 - School projects (Graph Neural Nets, Big Data Eng.)
 
 ### 🌱 I’m currently learning:
