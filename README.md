@@ -8,7 +8,9 @@ I'm **Serdar Nazlı**, a passionate AI & Data Engineering student currently purs
 - School projects (Graph Neural Nets, Big Data Eng.)
 
 ### 🌱 I’m currently learning:
-- Advanced AWS services as part of my "Cloud Computing" course.
+- AWS services as part of my "Cloud Computing" course.
+- Retrieval-augmented generation
+- Basics of Robotics
 - Techniques for deploying AI models in real-world applications.
 
 ### 👯 I’m looking to collaborate on:
